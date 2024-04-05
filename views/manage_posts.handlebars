@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Delete Posts</title>
+</head>
+<body>
+    <h1>Delete Posts</h1>
+    <!-- Post list with delete buttons -->
+    <table>
+        <thead>
+            <tr>
+                <th>Restaurant</th>
+                <th>Author</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each posts}}
+            <tr>
+                <td>{{restaurantName}}</td>
+                <td>{{username}}</td>
+                <td><input type="button" class="del-post-admin" value="delete post" data-post-id="{{_id}}"></a></td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+
+    <a href="/admin_page.handlebars">Back to Admin Page</a>
+</body>
+</html>

@@ -1,0 +1,30 @@
+   
+    <div class="container_profile">
+      <div class="profile">
+        {{#if imageSrc}}
+        <div><img src="{{imageSrc}}"></div> 
+        {{/if}}
+
+        {{#if username}}
+        <div class="name">{{ username }}<br>
+        {{/if}}
+
+        {{#if email}}
+          <div class="email">{{ email }}</div>
+        {{/if}}
+
+        </div>
+      </div>
+
+      <div>
+        <h2>Bio</h2>
+        {{#if bio}}
+        <p></p>{{bio}}
+        {{/if}}
+      </div>
+      <br>
+      <div class="rev">
+        <input type="button" class="revButton" value="Edit Profile" data-user-id="{{_id}}"> 
+    </div>
+    </div>
+   

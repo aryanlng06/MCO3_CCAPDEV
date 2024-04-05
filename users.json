@@ -1,0 +1,51 @@
+[
+    {
+        "username" : "GordonRamsay",
+        "email"    : "gordon@gmail.com",
+        "password1" : "wasd1",
+        "imageSrc" : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+        "bio" : "Add a bio?",
+        "numOfRev" : "1",
+        "numOfKitch" : "1"
+    },
+
+    {
+        "username" : "Sanji04",
+        "email"    : "Kuroashi@gmail.com",
+        "password1" : "Allblue4",
+        "imageSrc" : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+        "bio" : "Add a bio?",
+        "numOfRev" : "1",
+        "numOfKitch" : "1"
+    },
+
+    {
+        "username" : "SomaYukihira",
+        "email"    : "somayuki@gmail.com",
+        "password1" : "Hamburg06",
+        "imageSrc" : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+        "bio" : "Add a bio?",
+        "numOfRev" : "1",
+        "numOfKitch" : "1"
+    },
+
+    {
+        "username" : "XiangLing03",
+        "email"    : "guoba@gmail.com",
+        "password1" : "WanminBoiledFish",
+        "imageSrc" : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+        "bio" : "Add a bio?",
+        "numOfRev" : "1",
+        "numOfKitch" : "1"
+    },
+
+    {
+        "username" : "UncleRoger04",
+        "email"    : "haiyaFuiyi@gmail.com",
+        "password1" : "EggFriedRice01",
+        "imageSrc" : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+        "bio" : "Add a bio?",
+        "numOfRev" : "1",
+        "numOfKitch" : "1"
+    }
+]

@@ -1,0 +1,26 @@
+{{#each posts}}
+<div class="home-post-holder">
+<div class="home-post-header">
+  <div><img src="{{imageSrc}}"></div>
+  <div class="name">{{username}}<br></div>
+</div><br>
+    <div class="editPostButtons">
+         <input type="button" class="edit-Btn" value="Edit Post" data-post-id="{{_id}}"> 
+         <input type="button" class="del-Btn" value="Delete Post" data-post-id="{{_id}}">
+    </div>
+<div class="home-post-content">
+  <div class="restaurantname">
+    <h2>{{restaurantName}}</h2>
+  </div>
+  <div class="home-location">Location: <div class="address">{{location}}</div></div>
+  <div class="home-rating">Rating: <div class="rate">{{rating}}</div><img src="{{ratingImageSrc}}">stars</div>
+  <p>{{description}}</p>
+</div>
+<div class="home-footer">
+  <div>
+    <button type="button" class="like-button" data-post-id="{{_id}}">Helpful</button>
+  </div>
+</div>
+</div>
+{{/each}}
+

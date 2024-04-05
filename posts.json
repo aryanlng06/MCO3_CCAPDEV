@@ -1,0 +1,63 @@
+[
+    {
+    "imageSrc"      : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+    "username"      : "GordonRamsay",
+    "restaurantName": "Jollibee",
+    "location"      : "Buendia near Gil Puyat Stn.",
+    "rating"        : "5",
+    "ratingImageSrc": "https://img.freepik.com/free-vector/3d-metal-star-isolated_1308-115283.jpg",
+    "description"   : "Many people wants to eat in the Jollibee because the food is very delicious and the amount of the food is not expensive. As I observe their employees is well-groomed,the place is clean and the food is presentable.And I think Jollibee is one of the best fast food restaurant in the Philippines.",
+    "numOfLikes"    : "9",
+    "numOfDislikes" : "8"
+    },
+
+    {
+    "imageSrc"      : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+    "username"      : "GordonRamsay",
+    "restaurantName": "Mcdonalds",
+    "location"      : "Buendia near Gil Puyat Stn.",
+    "rating"        : "5",
+    "ratingImageSrc": "https://img.freepik.com/free-vector/3d-metal-star-isolated_1308-115283.jpg",
+    "description"   : "Many people wants to eat in the Jollibee because the food is very delicious and the amount of the food is not expensive. As I observe their employees is well-groomed,the place is clean and the food is presentable.And I think Jollibee is one of the best fast food restaurant in the Philippines.",
+    "numOfLikes"    : "9",
+    "numOfDislikes" : "8"
+    },
+
+    {
+    "imageSrc"      : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+    "username"      : "GordonRamsay",
+    "restaurantName": "Mang Inasal",
+    "location"      : "Near Vito Cruz Stn.",
+    "rating"        : "5",
+    "ratingImageSrc": "https://img.freepik.com/free-vector/3d-metal-star-isolated_1308-115283.jpg",
+    "description"   : "Many people wants to eat in the Jollibee because the food is very delicious and the amount of the food is not expensive. As I observe their employees is well-groomed,the place is clean and the food is presentable.And I think Jollibee is one of the best fast food restaurant in the Philippines.",
+    "numOfLikes"    : "9",
+    "numOfDislikes" : "8"
+    },
+
+    {
+    "imageSrc"      : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+    "username"      : "GordonRamsay",
+    "restaurantName": "Greenwich",
+    "location"      : "Mall of Asia, 1st Floor",
+    "rating"        : "5",
+    "ratingImageSrc": "https://img.freepik.com/free-vector/3d-metal-star-isolated_1308-115283.jpg",
+    "description"   : "Many people wants to eat in the Jollibee because the food is very delicious and the amount of the food is not expensive. As I observe their employees is well-groomed,the place is clean and the food is presentable.And I think Jollibee is one of the best fast food restaurant in the Philippines.",
+    "numOfLikes"    : "9",
+    "numOfDislikes" : "8"
+    },
+
+    {
+    "imageSrc"      : "https://speaking.com/wp-content/uploads/2023/09/gordon_ramsay.jpg",
+    "username"      : "GordonRamsay",
+    "restaurantName": "Tokyo Tokyo",
+    "location"      : "Victory Pasay Mall near Libertad Puyat Stn.",
+    "rating"        : "5",
+    "ratingImageSrc": "https://img.freepik.com/free-vector/3d-metal-star-isolated_1308-115283.jpg",
+    "description"   : "Many people wants to eat in the Jollibee because the food is very delicious and the amount of the food is not expensive. As I observe their employees is well-groomed,the place is clean and the food is presentable.And I think Jollibee is one of the best fast food restaurant in the Philippines.",
+    "numOfLikes"    : "9",
+    "numOfDislikes" : "8"
+    }
+]
+
+

@@ -1,0 +1,481 @@
+body {
+    background-image: url("https://images.pixexid.com/industrial-chefs-kitchen-stainless-steel-surfaces-reflecting-busy-culinary-pre-mosjqyua.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .leaderboard {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: auto;
+    max-height: 80vh;
+    overflow-y: auto;
+    width: 30%;
+    background-color: rgb(252, 98, 98);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 95px;
+  }
+  
+  .label {
+    background-color: rgb(66, 66, 66);
+    font-size: 20;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  .label img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  .row {
+    display: flex;
+    color: white;
+    font-size: 20;
+    gap: 30px;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-between;
+    border-bottom: 3px solid rgb(66, 66, 66);
+  }
+  
+  .navbar {
+    background-color: rgb(252, 98, 98);
+    color: white;
+    font-size: large;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0px;
+    z-index: 10000px;
+    /* Stick to the top of the page */
+  }
+  
+  .navbar img {
+    width: 50px;
+    border-radius: 50%;
+    border: solid white;
+  }
+  
+  .navbarlogo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .navbarlinks {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .navbar a{
+    color: black;
+    z-index: 1000px;
+  }
+  
+  .p_row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+  }
+  
+  
+  /* Login Page  & registration*/
+  
+  #container {
+    background-image: url("https://media1.popsugar-assets.com/files/thumbor/p2LMtL-QjPUzrajQL9q-2f22ZVM/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/01/31/186/n/1922195/tmp_AkxYaG_2cd10d9c839ac9a0_hk.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 0%;
+    margin: 0%;
+  }
+  
+  #container img {
+    position: absolute;
+    top: 10;
+    left: 10;
+    width: 10%;
+    height: 10%;
+    border-radius: 10%;
+    border: 5px solid white;
+  }
+  
+  #regbox {
+    margin-top: 50px;
+    background-image: url(https://img.freepik.com/free-vector/color-doodle-food-burger-pattern_1409-3918.jpg);
+    border: 5px solid black;
+    border-radius: 5%;
+    height: auto;
+    width: 500px;
+    justify-self: center;
+    color: gold;
+  }
+  
+  #toptext {
+    background-color: crimson;
+    color: gold;
+  }
+  
+  #credentials {
+    font-size: 135%;
+    padding-left: 70px;
+    padding-right: 70px;
+  
+  }
+  
+  .p_row button {
+    background-color: crimson;
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    height: 60px;
+    width: 170px;
+    border-radius: 5%;
+    font-size: 100%;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
+
+  #regbox .t_parent .p_row .login-btn {
+    background-color: crimson;
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    height: 60px;
+    width: 170px;
+    border-radius: 5%;
+    font-size: 100%;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
+  
+  #botdesign {
+    background-image: url("https://i.pinimg.com/736x/c5/74/e4/c574e4095980ceb78d657f0a94824714.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8%;
+  }
+
+  #password{
+    border-radius: 5px;
+    height: 35px;
+    border: 1px solid gray;
+  }
+  
+  /* User profile */
+  .main {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .container_profile {
+    background-color: rgb(66, 66, 66);
+    width: 30%;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    padding: 10px;
+    font-size: large;
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .profile img {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+  }
+  
+  
+  .bio {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .details {
+    height: 490px;
+    width: 400px;
+    background-color: rgb(66, 66, 66);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 95px;
+    margin-left: 10px;
+  }
+  
+  
+  .label_profile {
+    background-color: rgb(252, 98, 98);
+    font-size: 20;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  .label_profile img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  .row_profile {
+    display: flex;
+    color: white;
+    font-size: 20;
+    gap: 10px;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-between;
+    border-bottom: 3px solid rgb(252, 98, 98);
+    align-items: center;
+  }
+  
+  .row_profile img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  /*index stuff not checked between other similar names XD */
+  
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+    gap: 20px;
+  }
+  
+  .home-post-holder {
+    background-color: rgb(66, 66, 66);
+    width: 45%;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    padding: 10px;
+    font-size: large;
+  }
+  
+  .home-post-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .home-post-header img {
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+  }
+  
+  .home-location {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 5px;
+  }
+  
+  .home-post-content {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .home-rating {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .home-rating img {
+    height: 25px;
+    width: 25px;
+  }
+  
+  .home-footer {
+    border-top: 3px solid rgb(252, 98, 98);
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .home-footer button {
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .like-button {
+    background-color: green;
+    color: white;
+  }
+  
+  
+  .like-button:hover {
+    background-color: seagreen;
+  }
+  
+  .dislike-button:hover {
+    background-color: brown;
+  }
+  
+  
+  .dislike-button {
+    background-color: red;
+    color: white;
+  }
+  
+  .likes {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .rev {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+  }
+  
+  .revButton {
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(252, 98, 98);
+    color: white;
+    font-size: large;
+  }
+
+  .addRest {
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(252, 98, 98);
+    color: white;
+    font-size: large;
+  }
+  
+  /*Reviw for Make a review*/
+  .form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-right: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-left: 10px;
+    position: sticky;
+    top: 95px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  textarea,
+  
+  select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .test-container {
+    display: flex;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .popup {
+    display: none;
+    margin-left: 10px;
+    position: sticky;
+    top: 95px;
+  }
+
+  .popup_update {
+    display: none;
+    margin-left: 10px;
+    position: sticky;
+    top: 95px;
+  }
+
+  .popup_addRest {
+    display: none;
+    margin-left: 10px;
+    position: sticky;
+    top: 95px;
+  }
+
+  .helpful {
+    background-color: lightgreen; /* Change button background color when clicked */
+    color: black; /* Change button text color when clicked */
+}
+
