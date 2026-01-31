@@ -918,6 +918,58 @@
             ]
           },
           {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Auth Verification",
+              "description": "",
+              "outOfScope": false,
+              "isTrustBoundary": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [],
+              "trustBoundaryIds": []
+            },
+            "labels": [
+              "Auth Verification"
+            ],
+            "id": "0b3edb04-d5d4-42dd-a94f-e8e2b8bdb301",
+            "source": {
+              "cell": "0b57eee3-0cae-4702-9b45-a6b740baf13d",
+              "port": "5a3b3d95-a906-468f-b19c-cc1c42e9804d"
+            },
+            "target": {
+              "cell": "8942c901-eb9b-4d0c-a11a-5f594ea2055b",
+              "port": "19dbf5de-6f54-4d84-8855-4ee81e0bcded"
+            },
+            "vertices": [
+              {
+                "x": 620,
+                "y": 200
+              }
+            ]
+          },
+          {
             "position": {
               "x": 2170,
               "y": 32
