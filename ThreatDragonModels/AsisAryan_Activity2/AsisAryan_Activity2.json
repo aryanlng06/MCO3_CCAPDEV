@@ -11,12 +11,13 @@
     "diagrams": [
       {
         "id": 0,
-        "title": "New STRIDE diagrams",
+        "title": "Data Flow Diagram",
         "diagramType": "Generic",
         "placeholder": "New generic diagram description",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "version": "2.5.0",
-        "cells": []
+        "cells": [],
+        "description": "Present Data Flow"
       }
     ],
     "diagramTop": 2,
